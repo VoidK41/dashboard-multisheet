@@ -97,7 +97,7 @@ streamlit run main.py
 
 **Khairu Ikramendra**  
 Available for freelance dashboard & data analytics projects.  
-Let’s connect on [Linkedin](https://www.linkedin.com/in/khairuikramendra/)(#) or explore more on [Upwork](https://www.upwork.com/freelancers/~017002e8546494c6e9?mp_source=share)(#)!
+Let’s connect on [Linkedin](https://www.linkedin.com/in/khairuikramendra/) or explore more on [Upwork](https://www.upwork.com/freelancers/~017002e8546494c6e9?mp_source=share)!
 
 ---
 
